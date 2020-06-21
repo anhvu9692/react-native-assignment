@@ -9,7 +9,7 @@
 
 #### Clone & install
 
-- Clone this repo `https://gitlab.vred.vn/nhan.nguyen/vred-agent-mobile-v2`
+- Clone this repo `https://github.com/anhvu9692/react-native-assignment.git`
 - `cd react-native-assignment`
 - run `yarn install`
 - `cd ios`
